@@ -1,0 +1,44 @@
+
+
+.whatsincart{
+    display: grid;
+    align-items: center;
+    gap: 10px;
+    height: 70vh;
+}
+
+
+#groceryitem {
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+#medicineitem {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#fooditem {
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.cartbuttons {
+    padding: 20px;
+}
+
+
+.slider-container{
+    padding: 10px;
+}
+
+.navbar{
+    background-color: #005f73;
+}
+
+.container{
+    padding-top: 10px;
+}
+
